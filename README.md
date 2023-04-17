@@ -1,3 +1,7 @@
+# react-emoji-search-test
+<h1>www.patika.dev</h1>
+<p>Bu uygulamada, hazır olarak alınan bir react uygulamasının unit testleri yazılmıştır. </p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
